@@ -1,0 +1,10 @@
+D:\Programmin Advice\C# 14\ToDoList\bin\Debug\ToDoList.exe.config
+D:\Programmin Advice\C# 14\ToDoList\bin\Debug\ToDoList.exe
+D:\Programmin Advice\C# 14\ToDoList\bin\Debug\ToDoList.pdb
+D:\Programmin Advice\C# 14\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+D:\Programmin Advice\C# 14\ToDoList\obj\Debug\ToDoList.Form1.resources
+D:\Programmin Advice\C# 14\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+D:\Programmin Advice\C# 14\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+D:\Programmin Advice\C# 14\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+D:\Programmin Advice\C# 14\ToDoList\obj\Debug\ToDoList.exe
+D:\Programmin Advice\C# 14\ToDoList\obj\Debug\ToDoList.pdb
